@@ -1,2 +1,1 @@
-# sampleHandler
-android Handler 简单实现
+Simple implementation of android Handler
